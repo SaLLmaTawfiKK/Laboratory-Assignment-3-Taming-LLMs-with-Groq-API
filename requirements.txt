@@ -1,0 +1,5 @@
+pandas
+dotenv
+openai
+qroq
+requests
